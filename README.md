@@ -1,4 +1,4 @@
-### Hi there 👋 and Fuck You 
+### Life's shit and I want my money back
 
 <!--
 **divyanshjoshi/divyanshjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
