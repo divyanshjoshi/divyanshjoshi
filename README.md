@@ -1,4 +1,4 @@
-### Life's shit and I want my money back
+### Using data to answer questions! 
 
 <!--
 **divyanshjoshi/divyanshjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
