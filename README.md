@@ -1,4 +1,4 @@
-### Your friendly ML enthusiast. Need to put effort into making this intro :/
+###  Need to put effort into making this intro :/
 
 <!--
 **divyanshjoshi/divyanshjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
